@@ -1,55 +1,62 @@
-import { useCallback, useEffect, useState } from '@lynx-js/react'
+import { useCallback, useEffect, useRef, useState } from '@lynx-js/react';
 
-import './App.css'
-import arrow from './assets/arrow.png'
-import lynxLogo from './assets/lynx-logo.png'
-import reactLynxLogo from './assets/react-logo.png'
+import './App.css';
+import type { NodesRef } from '@lynx-js/types';
+import arrow from './assets/arrow.png';
+import lynxLogo from './assets/lynx-logo.png';
+import reactLynxLogo from './assets/react-logo.png';
+import SpeakerCard from './components/speakers/speaker';
 
-export function App(props: {
-  onRender?: () => void
-}) {
-  const [alterLogo, setAlterLogo] = useState(false)
+import {
+  type Speaker,
+  speakersArray,
+} from './components/speakers/speaker-list';
+
+export function App(props: { onRender?: () => void }) {
+  const [alterLogo, setAlterLogo] = useState(false);
 
   useEffect(() => {
-    console.info('Hello, ReactLynx')
-  }, [])
-  props.onRender?.()
+    console.info('Hello, ReactLynx');
+  }, []);
+  props.onRender?.();
 
   const onTap = useCallback(() => {
-    'background only'
-    setAlterLogo(prevAlterLogo => !prevAlterLogo)
-  }, [])
+    'background only';
+    setAlterLogo((prevAlterLogo) => !prevAlterLogo);
+  }, []);
+
+  const speakersRef = useRef<NodesRef>(null);
 
   return (
     <view>
-      <view className='Background' />
-      <view className='App'>
-        <view className='Banner'>
-          <view className='Logo' bindtap={onTap}>
-            {alterLogo
-              ? <image src={reactLynxLogo} className='Logo--react' />
-              : <image src={lynxLogo} className='Logo--lynx' />}
-          </view>
-          <text className='Title'>React</text>
-          <text className='Subtitle'>on Lynx</text>
-        </view>
-        <view className='Content'>
-          <image src={arrow} className='Arrow' />
-          <text className='Description'>Tap the logo and have fun!</text>
-          <text className='Hint'>
-            Edit<text
-              style={{
-                fontStyle: 'italic',
-                color: 'rgba(255, 255, 255, 0.85)',
-              }}
-            >
-              {' src/App.tsx '}
-            </text>
-            to see updates!
-          </text>
-        </view>
-        <view style={{ flex: 1 }} />
+      <view style={{height:'15vh', width: '100%', background: '#470b3a'}}>
+        <text style={{fontSize:'3rem', textAlign:'center', marginTop:'8vh'}}>SPEAKERS</text>
       </view>
+      <list
+        ref={speakersRef}
+        className="list"
+        list-type="waterfall"
+        column-count={2}
+        scroll-orientation="vertical"
+        custom-list-name="list-container"
+        style={{
+          width: '100%',
+          height: '85vh',
+          listMainAxisGap: '5px',
+          paddingBottom: '42px',
+        }}
+      >
+        {speakersArray.map((speaker: Speaker, index: number) => (
+          <list-item
+            estimated-main-axis-size-px={200}
+            item-key={'' + index}
+            key={'' + index}
+            style={{padding: '5px'}}
+          >
+            <SpeakerCard speaker={speaker} />
+          </list-item>
+        ))}
+      </list>
     </view>
-  )
+  );
 }

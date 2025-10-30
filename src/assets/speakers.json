@@ -1,0 +1,247 @@
+[
+  {
+    "name": "Guillermo Rauch",
+    "title": "CEO and founder, Vercel",
+    "slug": "eL8aG",
+    "image": "https://jsconfmx.org/_next/static/media/Guillermo-Rauch.bf098a07.png",
+    "bio": "Guillermo Rauch is the founder and CEO of Vercel, where he leads the company’s mission to enable the world to ship the best products. Originally from Argentina, Guillermo became a self-taught developer at the age of ten, and has been a passionate contributor to the open-source community ever since. He is the designer and co-author of Next.js, the world's most popular React framework and is also the creator of socket.io, Mongoose.js, and Now. In May 2024, Vercel completed a $250M Series E round led by Accel at $3.25 bln valuation and was recently named to the Forbes Cloud 100. Prior to founding Vercel, Guillermo co-founded LearnBoost and Cloudup where he served the company as CTO through its acquisition by Automattic in 2013. You can find him frequently on X engaging with the developer community."
+  },
+  {
+    "name": "Lin Clark",
+    "title": "Code Cartoons, Investigadora y educadora independiente",
+    "slug": "tY3sJ",
+    "image": "https://jsconfmx.org/_next/static/media/Lin-Clark.d730c82c.jpg",
+    "bio": "Lin Clark is an independent researcher and educator, as well as the creator of Code Cartoons. With a career focused on developer tools and web standards, she has participated in numerous open web projects, from data in HTML to JavaScript and WebAssembly. She was a core module maintainer for Drupal, one of the first employees at npm, and for 7 years, she was part of the WebAssembly team at Mozilla, helping to drive the WebAssembly ecosystem. Lin believes in the mantra: assume zero knowledge and infinite intelligence. Whether she's explaining WebAssembly with a video game-style skill tree or the inner workings of React using characters from The IT Crowd, her talks make learning complex technologies feel like a game."
+  },
+  {
+    "name": "Robin Bender Ginn",
+    "title": "Executive Director of OpenJS Foundation",
+    "slug": "pL9tz",
+    "image": "https://jsconfmx.org/_next/static/media/Robin-Ginn.2123ab21.jpg",
+    "bio": "Robin Bender Ginn is the Executive Director of the OpenJS Foundation. Hosted by the Linux Foundation, OpenJS is the neutral home to grow and sustain the JavaScript and web ecosystem with 30 projects including Electron, Express, Jest, jQuery, Node.js, and webpack. Previously, Robin led major initiatives at Microsoft to advance open source technologies, community development, and open standards."
+  },
+  {
+    "name": "Fernando Herrera",
+    "title": "CEO de DevTalles",
+    "slug": "aB5rL",
+    "image": "https://jsconfmx.org/_next/static/media/Fernando-Herrera.f8805ca0.jpeg",
+    "bio": "Full-Stack Developer and online instructor, with over 20 years in the field. He is the CEO of DevTalles and has taught more than 640K students."
+  },
+  {
+    "name": "Maximiliano Firtman",
+    "title": "Desarrollador web y Autor",
+    "slug": "cD2_s",
+    "image": "https://jsconfmx.org/_next/static/media/Maximiliano_Firtman.a9eaed6c.jpg",
+    "bio": "Maximiliano Firtman holds a degree in computer systems and is a programming instructor and consultant. He founded the training institute ITMaster Academy in 2005 and is the author of 14 books and over 35 online courses published on various platforms and publishers in English, such as Frontend Masters and LinkedIn Learning. One of his latest published works is 'Learn PWA!', a free interactive book published by Google on Web.dev. He has worked as a technology journalist for specialized media outlets and on independent research. As a consultant and instructor, he has worked with companies like Apple, Google, Intel, Cisco, PayPal, and MercadoLibre, and is a frequent speaker at international conferences. He teaches courses on web, mobile, and performance development, as well as applied Artificial Intelligence."
+  },
+  {
+    "name": "Miguel Ángel González",
+    "title": "Senior Software Development Engineer @ Zillow",
+    "slug": "fuTSt",
+    "image": "https://jsconfmx.org/_next/static/media/Miguel_Angel.58e790c3.jpg",
+    "bio": "UI/UX and product problem-solving specialist with a strong foundation in modern frontend engineering. As a Senior Engineer at Zillow, he works on the Rental Revenue Platform, building internal tools for billing, sales, and partner management. He transforms complex systems into intuitive, scalable experiences by modernizing codebases and improving architecture."
+  },
+  {
+    "name": "Devlin Duldulao",
+    "title": "Full Stack Cloud Eng.",
+    "slug": "r6ZvO",
+    "image": "https://jsconfmx.org/_next/static/media/Devlin_Duldulao.6cbdac2a.png",
+    "bio": "Devlin Duldulao is a dynamic tech professional blending engineering, authorship, mentoring, and community leadership. Whether it's through speaking at conferences, writing code and books, or championing modern practices like GraphQL and AI-enhanced search, he’s a go-to figure for cutting-edge, full-stack and cloud development."
+  },
+  {
+    "name": "Thomas Steiner",
+    "title": "Developer Relations Eng. @ Google",
+    "slug": "W3Eio",
+    "image": "https://jsconfmx.org/_next/static/media/Thomas_Steiner.0e6c6bcf.jpg",
+    "bio": "Thomas Steiner is a Developer Relations Engineer at Google, focused on Web AI, WebAssembly, and Project Fugu. He's an alumnus of University of Lyon (Postdoc), Polytechnic University of Barcelona (Ph. D.), and University of Karlsruhe (MA). He blogs at blog.tomayac.com and posts as @tomayac@toot.cafe. On all other places on the Internet, chances are that he's there under his online alias tomayac."
+  },
+  {
+    "name": "Felipe Ortiz Huerta",
+    "title": "AI Specialist @ Howdy.com",
+    "slug": "YkIYK",
+    "image": "https://jsconfmx.org/_next/static/media/Felipe_Ortiz.92653eb0.jpeg",
+    "bio": "An AI and Data Science expert with a PhD in Quantum Photonics and over 10 years of experience. He has applied his expertise to projects ranging from quantum optics to developing AI solutions. He previously worked with Microsoft Azure optimizing Large Language Models (LLMs) and RAG applications. Today, as part of Howdy, Felipe drives the practical adoption of AI, bringing technological innovation into the daily operations of people and organizations."
+  },
+  {
+    "name": "Nelly Andrade",
+    "title": "Head of Developer Experience LATAM, Amazon Web Services",
+    "slug": "BtE34",
+    "image": "https://jsconfmx.org/_next/static/media/Nelly_Andrade.1167f51a.jpg",
+    "bio": "Nelly Andrade is the Head of Developer Experience LATAM at Amazon Web Services, where she leads a team to engage with developers and build innovative cloud solutions. With over 10 years of experience in global community programs, she previously managed one of the world's largest student competitions for social entrepreneurship, reaching over 200,000 participants from 121 countries annually. Her work in social innovation and women's empowerment has earned recognition including UN Women Global Champion 2015 and Premio Nacional de Acción Voluntaria y Solidaria 2012 from the President of Mexico."
+  },
+  {
+    "name": "Eduardo Mayida",
+    "title": "Lead Software Engineer @ Capital One",
+    "slug": "YLgDM",
+    "image": "https://jsconfmx.org/_next/static/media/Eduardo_Capital.89856a9c.jpg",
+    "bio": "Technical Lead at Capital One, leads innovation in commercial credit management. Founded Marchanda Mercado (connecting farmers/consumers) and Planific.io (smart scheduling). Specialized in UI/UX (CalArts), focus on code that solves real human problems."
+  },
+  {
+    "name": "Ana Cunha",
+    "title": "Developer Advocate, Amazon Web Services",
+    "slug": "zklFa",
+    "image": "https://jsconfmx.org/_next/static/media/Ana_Cunha.f9b8b083.jpg",
+    "bio": "Ana Cunha is a Developer Advocate at Amazon Web Services for Latin America. Prior to joining AWS, Ana was a Software Development Engineer at Amazon.com. She holds a Master of Science in Computer Science from Northeastern University and a Bachelor of Science in Information Systems from PUCRS."
+  },
+  {
+    "name": "Robert Fabela",
+    "title": "Full Stack Software Engineer @ change.org",
+    "slug": "7WzHG",
+    "image": "https://jsconfmx.org/_next/static/media/Robert_Fabela.ae8a2244.jpg",
+    "bio": "Robert is a Full Stack Software Engineer at Change.org with 5+ years of experience. Expert in JavaScript, TypeScript (Angular, React, Nest.js). Enjoys web and hybrid apps (RN, Capacitor), coding, and video games."
+  },
+  {
+    "name": "Abraham Velazquez",
+    "title": "Director of Engineering, Dropbox",
+    "slug": "EFxC8",
+    "image": "https://jsconfmx.org/_next/static/media/Abraham.fc0ea597.jpeg",
+    "bio": "Engineering Director at Dropbox with over 16 years of experience (Apple, agencies, non-profits). He leads key product engineering initiatives. Focuses on developer experience, mentorship, and engineer growth in the AI era."
+  },
+  {
+    "name": "Marian Villa",
+    "title": "DevRel @ Interledger Foundation y Co-founder de Pionerasdev Community.",
+    "slug": "uZQ2V",
+    "image": "https://jsconfmx.org/_next/static/media/Marian_Villa.850de8b4.jpg",
+    "bio": "Designer and full-stack developer, member of the Royal Academy of Engineering in London. She is a Google Launchpad mentor, part of the Google Developers Experts program in Web Technologies, and a global Women Techmakers ambassador. Marian currently works with the Interledger Foundation, strengthening relationships with developers and fostering open financial innovation as DevRel."
+  },
+  {
+    "name": "Alex Lakatos",
+    "title": "CTO @ Interledger",
+    "slug": "iKzvI",
+    "image": "https://jsconfmx.org/_next/static/media/Alex_Lakatos.af0c86f7.jpg",
+    "bio": "Alex leads Technology at the Interledger Foundation and focuses on lowering the barrier to entry into the Interledger ecosystem while driving the adoption of the web standards powering the Interledger network. With a background in web technologies and developer advocacy, he's helping organizations in the ecosystem build developer-friendly products while engaging with the developer community at large."
+  },
+  {
+    "name": "Joel Gomez",
+    "title": "Frontend & Google Developer Expert",
+    "slug": "t8bXQ",
+    "image": "https://jsconfmx.org/_next/static/media/Joel_Gomezz.e746183b.jpg",
+    "bio": "Frontend Developer at Platzi, FullStack JS Developer, GDE on Web Technologies and Google Maps Platform. Pokemon master, corgi fan and taco lover"
+  },
+  {
+    "name": "Aileen Villanueva",
+    "title": "Software Eng. & AI",
+    "slug": "u9cY2",
+    "image": "https://jsconfmx.org/_next/static/media/Aileen_Villanueva.9f9328ce.jpg",
+    "bio": "Software Eng. with +10 years, now in AI/ML via JavaScript and web. Women Techmaker Ambassador and organizes meetups."
+  },
+  {
+    "name": "Eduardo Roth",
+    "title": "Solutions Architect",
+    "slug": "NHDje",
+    "image": "https://jsconfmx.org/_next/static/media/Eduardo_Roth.55f7673b.jpg",
+    "bio": "Husband, father of three, and passionate about Angular, Ionic, and the web. He frequently contributes to the Open Source community and organizes the Angular Community Meetup and GDG Monterrey. He is a Google Developer Expert in Angular, Nx Certified Expert, Ionic Developer Expert, and ng-conf Champion."
+  },
+  {
+    "name": "Kevin Uehara",
+    "title": "Senior Frontend Eng.",
+    "slug": "v0dZS",
+    "image": "https://jsconfmx.org/_next/static/media/Kevin_Uehara.8c2a6683.jpg",
+    "bio": "Senior Frontend Engineer at IFood, Microsoft MVP, NodeBR Collaborator, GDG (Google Developer Groups), FrontIn Campinas Organizer, International e National Speaker and Content Tech Creator."
+  },
+  {
+    "name": "Vanessa Aristizabal",
+    "title": "Full-Stack Developer",
+    "slug": "x2fBU",
+    "image": "https://jsconfmx.org/_next/static/media/Vanessa_Aristizabal.97ba7cdf.jpeg",
+    "bio": "System Engineer with a specialization in Software Development. She is a Google Developer Expert in Angular and Web Technologies, a GitHub Star, and a Women Techmakers Ambassador. A tech content creator with a passion for code, books, illustration, anime, manga, and journaling."
+  },
+  {
+    "name": "Shivay Lamba",
+    "title": "Developer Experience Eng. @ Couchbase",
+    "slug": "RW7ej",
+    "image": "https://jsconfmx.org/_next/static/media/Shivay_Lamba.4f099df6.jpg",
+    "bio": "Shivay Lamba is a software developer specializing in DevOps, Machine Learning, and Full Stack. An Open Source Enthusiast, he has been a Mentor for Google Code-In/Summer of Code and an MLH Fellow. He is active in community work (TensorflowJS SIG, OpenMined, CNCF) and has given talks at conferences like Github Satellite."
+  },
+  {
+    "name": "Juan Carlos",
+    "title": "Software Eng.",
+    "slug": "s7aWP",
+    "image": "https://jsconfmx.org/_next/static/media/Juan_Carlos.b739a18b.jpg",
+    "bio": "With a 20-year career and my own META-morphosis at Facebook, I still have the same coding passion. I consider myself a creative anarchist: I obsess over defining rigorous standards only to break and reinvent them. I have countless stories, and when I'm not coding, you'll find me at the climbing gyms."
+  },
+  {
+    "name": "Bree Hall",
+    "title": "Developer Advocate @ HubSpot",
+    "slug": "XQewe",
+    "image": "https://jsconfmx.org/_next/static/media/Bree_Hall.d9e8f220.png",
+    "bio": "Bree is a former frontend Software Engineer now a Developer Advocate at HubSpot. She's passionate about coding and making tech accessible, creating technical content to help developers build autonomously. When not working, she enjoys playing video games, baking, or traveling to magical destinations."
+  },
+  {
+    "name": "Alex Parra",
+    "title": "Platform Eng. @ Kueski",
+    "slug": "l_4dP",
+    "image": "https://jsconfmx.org/_next/static/media/Alex_Parra.7506f6f7.jpg",
+    "bio": "My name is Alejandro Parra, a cloud and open-source technology evangelist with over 10 years of experience in IT. I share my experiences to inspire a more open, collaborative, and innovative world where 'Res publica non dominetur' is a reality."
+  },
+  {
+    "name": "Navya Agarwal",
+    "title": "Software Developer y Tech Lead @ Adobe",
+    "slug": "m_5eQ",
+    "image": "https://jsconfmx.org/_next/static/media/Navya_Agarwal.66407635.jpg",
+    "bio": "Navya is a Senior Software Engineer at Adobe (California), specializing in JavaScript and frontend frameworks. She is a Tech Speaker, sharing insights on GraphQL, web technologies, and Devtools at various conferences. She loves exploring new tech stacks and is a coffee enthusiast."
+  },
+  {
+    "name": "Cynthia Castillo",
+    "title": "Matemática y Analista de Datos @ Honeywell",
+    "slug": "n_6fR",
+    "image": "https://jsconfmx.org/_next/static/media/Cynthia_Castillo.ec5b14b2.jpg",
+    "bio": "Cynthia is a Mathematician and Data Analyst at Honeywell, with diverse data experience across finance, healthcare, manufacturing, and bioinformatics. She creates content as La Matemaga on Twitch/YouTube and tutors math for data science programs at Código Facilito. She has published scientific and outreach articles."
+  },
+  {
+    "name": "Jaime Rios",
+    "title": "Arquitecto de Soluciones",
+    "slug": "Jwj1h",
+    "image": "https://jsconfmx.org/_next/static/media/Jaime3.c2b4b286.jpg",
+    "bio": "A specialist in serverless architecture and cloud security. As a Solutions Architect, he focuses on automating regulatory compliance (HIPAA, SOC2) for industries like legal-tech, using Infrastructure as Code to simplify security without hindering innovation."
+  },
+  {
+    "name": "Monica Portillo",
+    "title": "Software Associate II @ BBVA Technology América",
+    "slug": "o_7gS",
+    "image": "https://jsconfmx.org/_next/static/media/Monica_Portillo.70e2c833.jpeg",
+    "bio": "IT Engineer, Software Associate II at BBVA. Led projects at Inbursa. Women Techmakers Ambassador. Shares knowledge on web and cloud computing."
+  },
+  {
+    "name": "Cesar Mendez",
+    "title": "Data Eng. @ Globant",
+    "slug": "p_8hT",
+    "image": "https://jsconfmx.org/_next/static/media/Cesar_Mendez.fb4a3318.jpg",
+    "bio": "Data Engineer with +8 years. Experience in IoT (Smart Cities) and Oil/Gas. Develops AI services. NASA Space Apps finalist."
+  },
+  {
+    "name": "Carlos Aguilera",
+    "title": "CSE I @ AWS Mexico",
+    "slug": "AVVSf",
+    "image": "https://jsconfmx.org/_next/static/media/Carlos_Aguilera.ed88144a.jpg",
+    "bio": "Amateur passionate web developer. Self-taught JS/TS coder and freelancer (3+ years experience). Self-confessed open-source wannabe. Helping customers solve cloud challenges as an AWS Mexico Cloud Support Engineer. ❤️ Vue & Ruby. Turning coffee into code since 2017."
+  },
+  {
+    "name": "Mariel",
+    "title": "Assoc Engineering Manager",
+    "slug": "PPs4T",
+    "image": "https://jsconfmx.org/_next/static/media/Mariel.4f4f493f.jpg",
+    "bio": "Passionate developer: software, UX design, and leadership. Focuses on technical resolution, system scaling, and mentoring."
+  },
+  {
+    "name": "Miguel Cantu",
+    "title": "Ilustrador y Docente",
+    "slug": "q_9iU",
+    "image": "https://jsconfmx.org/_next/static/media/Miguel_Cantu.95c501ae.jpg",
+    "bio": "Illustrator and M.S. UANL professor for over 6 years. Combines art and education, led innovation projects."
+  },
+  {
+    "name": "Hanzeel Villa",
+    "title": "Estudiante Ing. en Software",
+    "slug": "r_0jV",
+    "image": "https://jsconfmx.org/_next/static/media/Hanzeel_Villa.c5575993.jpg",
+    "bio": "Final-year Software Eng. student specializing in backend with Express.js. Integrates IoT systems with web apps (irrigation, autonomous vehicles)."
+  },
+  {
+    "name": "Fernando Villaseñor",
+    "title": "Estudiante Ing. en Software",
+    "slug": "s_1kW",
+    "image": "https://jsconfmx.org/_next/static/media/Fernando_Villasenor.baff76a8.jpg",
+    "bio": "Final-year Software Eng. student, developed a LoRa mobile app. Microsoft MLSA tutoring on cloud, IoT, & JavaScript."
+  }
+]
